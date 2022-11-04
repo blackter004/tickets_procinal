@@ -1,0 +1,17 @@
+.elementForm{
+    margin: 10px;
+    text-align: center;
+}
+
+.formulary{
+    border: 5px solid #000;
+}
+
+.lowTickets{
+    text-align: center;
+    border: 5px solid #000;
+}
+
+h1{
+    text-align: center;
+}
